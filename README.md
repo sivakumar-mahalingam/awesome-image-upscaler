@@ -15,6 +15,7 @@ A curated list of awesome image upscale resources
 - [RCAN](https://arxiv.org/abs/1807.02758)
 - [ESRGAN](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Wang_ESRGAN_Enhanced_Super-Resolution_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf)
 - [ERCA](https://drive.google.com/file/d/1GFEMT8rCR7SovhudMWFP_lvP_DrtHoTP/view?usp=drive_open)
+- [WDSR](https://arxiv.org/abs/1808.08718)
 
 ### Repos
 - [EDSR](https://github.com/sanghyun-son/EDSR-PyTorch)
